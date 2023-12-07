@@ -10,8 +10,6 @@ This project focuses on the analysis of a game app with a special emphasis on pr
 - [Analysis Focus](#analysis-focus)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Table Structure
 
